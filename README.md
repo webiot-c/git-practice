@@ -98,8 +98,8 @@ masterブランチは、メインのブランチです。pushするときも`$ g
 という流れです。
 
 ## 参考
-- GitHub Guide(公式チュートリアル)
+- GitHub Guide(公式チュートリアル)  
 https://guides.github.com/activities/hello-world/
 
-- サルでもわかるGit入門
+- サルでもわかるGit入門  
 https://backlog.com/ja/git-tutorial/
