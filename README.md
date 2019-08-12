@@ -80,7 +80,7 @@ $ git commit -m "add new file"
 # pushする
 $ git push origin ブランチ名(katapiとか)
 ```
-pushまで行うと(https://github.com/webiot-c/git-practice)に自分が修正・変更した内容が反映されていると思います。
+pushまで行うと(https://github.com/webiot-c/git-practice) に自分が修正・変更した内容が反映されていると思います。
 
 **注意**:
 masterブランチは、変更・編集しない  
