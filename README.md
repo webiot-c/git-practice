@@ -87,10 +87,10 @@ masterブランチは、変更・編集しない
 masterブランチは、メインのブランチです。pushするときも`$ git push origin master`しないよう気をつけてください。  
 
 ## masterブランチにmergeする
-自分で作成したブランチをmasterブランチにmerge(結合)する作業をします。
-GitHubを見ると「Compare & pull request」ボタンがあります。そこからpull requestを作成します。タイトルは、追加したものや編集内容を記述します。
-「Create pull request」で完了です。
-「merge pull request」を押してmerge完了です。
+自分で作成したブランチをmasterブランチにmerge(結合)する作業をします。  
+GitHubを見ると「Compare & pull request」ボタンがあります。そこからpull requestを作成します。タイトルは、追加したものや編集内容を記述します。  
+「Create pull request」で完了です。  
+「merge pull request」を押してmerge完了です。  
 グループの人にレビューしてもらいたいときは、Create pull requestまでで大丈夫です。右上のReviewersでkatapiでも指定しておけばレビューします。
 
 
