@@ -31,7 +31,7 @@ $ git config --global user.email katapi@example.com
 $ git clone https://github.com/webiot-c/git-practice
 ```
 
-コマンド操作でなくても(https://github.com/webiot-c/git-practice)からcloneできます。  
+コマンド操作でなくても(https://github.com/webiot-c/git-practice) からcloneできます。  
 右上の「clone or download」からcloneできます。
 
 ## ブランチの作成
@@ -85,6 +85,7 @@ pushまで行うと(https://github.com/webiot-c/git-practice) に自分が修正
 **注意**:
 masterブランチは、変更・編集しない  
 masterブランチは、メインのブランチです。pushするときも`$ git push origin master`しないよう気をつけてください。  
+(複数人で開発を行う際の場合です)
 
 ## masterブランチにmergeする
 自分で作成したブランチをmasterブランチにmerge(結合)する作業をします。  
